@@ -1,5 +1,4 @@
-# 《剑指offer》题目
-## －－使用Java实现
+# 《剑指offer》题目——使用Java实现
 ***
 > Solutions to the book《Coding Interviews》with Java.
 
