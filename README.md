@@ -33,3 +33,15 @@ static class Node{
 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
 
 **解决方案:**见Q7_QueueWithTwoStack.java
+
+#### Question08:MinNumberInRotateArray
+#### 面试题8:旋转数组的最小数字
+把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。输入一个递增序列(可能存在重复值)的一个旋转，输出旋转数组的最小元素。例如数组{3,4,5,1,2}为{1,2,3,4,5}的一个旋转，该数组的最小值为1。
+
+**解决方案:**见Q8_MinNumberInRotateArray.java
+
+#### Question09:Fibonacci
+#### 面试题9:斐波那契数列
+大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项。
+
+**解决方案:**见Q9_Fibonacci.java
