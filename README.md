@@ -68,3 +68,8 @@ static class Node{
 #### 面试题10：二进制中1的个数
 输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。
 **解决方案:**见Q10_NumberOf1.java
+
+#### Question11:Power
+#### 面试题11：数值的整数次方
+给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
+**解决方案:**见Q11_Power.java
