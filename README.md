@@ -2,7 +2,7 @@
 ***
 > Solutions to the book《Coding Interviews》with Java.
 
->《剑指offer》题目的Java实现。
+>《剑指offer—名企面试官精讲典型编程题》题目的Java实现。
 
 | Question ID | Title | Question | Solution |
 |:--------:|:--------:|--------|--------|
