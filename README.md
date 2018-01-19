@@ -1,4 +1,4 @@
-# 《剑指offer》题目——使用Java实现
+# 《剑指offer—名企面试官精讲典型编程题》题目——使用Java实现
 ***
 > Solutions to the book《Coding Interviews》with Java.
 
