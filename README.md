@@ -7,8 +7,8 @@
 | Question ID | Title | Question | Solution |
 |--------|--------|--------|--------|
 |03|FindInPartiallySortedMatrix<br>二维数组中的查找|在一个二维数组中，每一行按照从左到右递增的顺序排序，每一列按照从上到下递增的顺序排序。请完成一个函数，输入上述二维数组和一个整数，判断数组中是否含有该整数。|Q3_FindMatrix.java|
-|05|PrintListReversingly<br>从尾到头打印链表|输入一个链表的头节点，从尾到头反过来打印每个节点的值。链表节点定义见Q5_PrintListReversingly.java
-|见Q5_PrintListReversingly.java|
+
+|05|PrintListReversingly<br>从尾到头打印链表|输入一个链表的头节点，从尾到头反过来打印每个节点的值。链表节点定义见Q5_PrintListReversingly.java|Q5_PrintListReversingly.java|
 
 #### Question03:FindInPartiallySortedMatrix
 #### 面试题3:二维数组中的查找
