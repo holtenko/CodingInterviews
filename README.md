@@ -19,8 +19,8 @@
 |09.3|RectCover<br>矩形覆盖|我们可以用`2*1`的小矩形横着或者竖着去覆盖更大的矩形。请问用n个`2*1`的小矩形无重叠地覆盖一个`2*n`的大矩形，总共有多少种方法？|[Q9.3_RectCover.java](Q9.3_RectCover.java)|
 |10|NumberOf1<br>二进制中1的个数|输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。|[Q10_NumberOf1.java](Q10_NumberOf1.java)|
 |11|Power<br>数值的整数次方|给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。|[Q11_Power.java](Q11_Power.java)|
-|12|打印1到最大的n位数||:soon:|
-|13|在O(1)时间删除链表结点||:soon:|
+|12|打印1到最大的n位数||:flags:|
+|13|在O(1)时间删除链表结点||:flags:|
 |14|调整数组顺序使奇数位于偶数前面|输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。|[Q14_ReOrderArray.java](Q14_ReOrderArray.java)|
 |15|链表中倒数第k个结点|输入一个链表，输出该链表中倒数第k个结点。|[Q15_FindKthToTail.java](Q15_FindKthToTail.java)|
 |16|反转链表|输入一个链表，反转链表后，输出新链表的表头。|[Q16_ReverseList.java](Q16_ReverseList.java)|
